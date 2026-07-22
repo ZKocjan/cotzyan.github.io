@@ -1,10 +1,10 @@
 <meta name="viewport" content="width=1000, initial-scale=0.1">
 
-I am an Astronomy PhD Candidate and Fulbright Fellow in the Department of Astronomy at the <a href="https://umd.edu"> University of Maryland </a>. 
+I am an Astronomy PhD Candidate and Fulbright Fellow in the Department of Astronomy at the <a href="https://umd.edu"> University of Maryland.</a> 
 
 My research focuses on the physical processes that shape star formation and galaxy evolution across cosmic time. I use advanced hydrodynamical simulations to study the life cycle of gas within galaxies, from the collapse of dense clouds that give birth to stars to the powerful explosions of dying stars that shape future generations of star formation.
 
-Under the supervision of Prof <a href="https://www.benediktdiemer.com"> Benedikt Diemer </a>, my doctoral research focuses on developing TURTLE, a physically motivated sub-grid model of the interstellar medium for large-volume cosmological simulations. The model aims to capture processes happening on scales far below the resolution of cosmological simulations, such as turbulence, molecular cloud formation, and stellar feedback. This enables large-volume simulations to make more realistic predictions for star formation and the evolution of galaxies across cosmic time.
+Under the supervision of Prof <a href="https://www.benediktdiemer.com"> Benedikt Diemer, </a> my doctoral research focuses on developing TURTLE, a physically motivated sub-grid model of the interstellar medium for large-volume cosmological simulations. The model aims to capture processes happening on scales far below the resolution of cosmological simulations, such as turbulence, molecular cloud formation, and stellar feedback. This enables large-volume simulations to make more realistic predictions for star formation and the evolution of galaxies across cosmic time.
 
 <h2> Publication list: </h2>
 
