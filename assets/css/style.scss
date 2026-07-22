@@ -1,0 +1,65 @@
+---
+---
+@import "{{ site.theme }}";
+$myWidth: 680px;
+
+body {
+ background-color: #ebdff2;
+ background-image: url("https://cotzyan.github.io/background.png"), url("https://cotzyan.github.io/background.png");
+ background-repeat: repeat-y;
+ background-attachment: fixed;
+ background-position: -80%, 180%;
+ font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ color:#17131c;
+ font-weight:400;
+}
+
+container {
+  width: $myWidth;
+}
+
+a {
+  color: #787af0;
+}
+
+a:hover, a:focus {
+  color:#7a18f5;
+  font-weight: bold;
+}
+
+logo {
+    max-width: 25px;
+ }
+
+page-header {
+  color: #7a35b8;
+  text-align: center;
+  background-color: #a048f0;
+}
+
+img {
+   max-width:80%;
+  }
+
+h2 {
+  color:#484bf0;
+}
+
+h3, h4, h5, h6 {
+  color:#484bf0;
+}
+
+div.gallery {
+  margin: 1px;
+  float: right;
+  width: 150px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
