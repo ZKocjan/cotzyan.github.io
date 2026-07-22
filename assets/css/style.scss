@@ -4,16 +4,21 @@
 $myWidth: 680px;
 
 body {
-  background-color: #ebdff2;
   background-image: url("{{ '/background.png' | relative_url }}");
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
 
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #ffffff;
   font-weight: 400;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll;
+  }
 }
 
 container {
@@ -42,6 +47,14 @@ page-header {
 img {
    max-width:80%;
   }
+
+header img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+}
 
 h2 {
   color:#484bf0;
