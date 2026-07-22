@@ -4,14 +4,16 @@
 $myWidth: 680px;
 
 body {
- background-color: #ebdff2;
- background-image: url("{{ '/background.png' | relative_url }}");
- background-repeat: repeat-y;
- background-attachment: fixed;
- background-position: -80%, 180%;
- font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
- color:#17131c;
- font-weight:400;
+  background-color: #ebdff2;
+  background-image: url("{{ '/background.png' | relative_url }}");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #17131c;
+  font-weight: 400;
 }
 
 container {
