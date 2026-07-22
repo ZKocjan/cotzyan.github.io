@@ -14,10 +14,8 @@ Under the supervision of Prof <a href="https://www.benediktdiemer.com"> Benedikt
 
  * Co-author of Polzin et al. 2025, Picture an Astronomer: Best Practices for Retaining Talent in Astrophysics, <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251224465P/abstract"> [ads] </a>, <a href="https://arxiv.org/abs/2512.24465"> [arXiv] </a>,  (183 pages).
 
-**Interested in applying for Fulbright? Let me know!**
-I am happy to help with applications and provide advice about the program :)
-
 <h3>You can reach me at:</h3>
 **zkocjan@umd.edu**
 
+Interested in applying for Fulbright? Let me know! I am happy to help with applications and provide advice about the program :)
 
