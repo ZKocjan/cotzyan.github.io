@@ -38,7 +38,9 @@ title: CV
 
 ## Selected Honors and Awards
 
-* Fulbright Poland Scholarship: Graduate Student Award - $47,000 for the 2023/24 academic year (received renewal for 2024/2025).
+* <a href="https://www.simonsfoundation.org/flatiron-institute-center-for-computational-astrophysics-pre-doctoral-program/"> CCA Pre-Doctoral Program Fellow</a>, Flatiron Institute Center for Computational Astrophysics (2022)
+
+* <a href="https://fulbright.edu.pl"> Fulbright Poland Scholarship</a>: Graduate Student Award - $47,000 for the 2023/24 academic year (received renewal for 2024/2025).
 
 * Graduate School Dean's Fellowship 2026 - equivalent to $2,500.
   
@@ -77,4 +79,10 @@ title: CV
 * Milky Way Halo Group Seminar, Space Telescope Science Institute, Baltimore, MD, USA. 04.10.2024. 
 
 
-  
+
+
+
+
+
+
+
