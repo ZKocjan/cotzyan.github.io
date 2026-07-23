@@ -7,8 +7,8 @@ Click here to download my CV.
 
 ## Education 
 
-**Astronomy PhD**, University of Maryland (UMD): 2023 -- present
-* Dissertation ``TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by Dr Benedikt Diemer.
+- **Astronomy PhD**, University of Maryland (UMD): 2023 -- present
+  - * Dissertation ``TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by Dr Benedikt Diemer.
 
 Astrophysics MSc, University College London (UCL): 2021 -- 2022
 * Distinction received.
