@@ -14,5 +14,4 @@ github:
 google_analytics:
 
 plugins:
-  - jekyll-seo-tag
   - jekyll-sitemap
