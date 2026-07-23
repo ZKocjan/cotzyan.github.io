@@ -53,7 +53,7 @@ Overview of the gas cycling model (Semenov et al., 2017). Gas within galaxies co
 
 ## Gas accretion and the circumgalactic medium (CGM)
 
-Under the supervision of Dr <a href="https://www.pontzen.co.uk/"> Andrew Pontzen </a>, Dr <a href="https://cphyc.github.io/"> Corentin Cadiou </a> and Dr <a href="https://www.astro.lu.se/~oscar"> Oscar Agertz </a>, I worked on the thermal history and kinematics of the gas accreted onto galaxies. Using the AMR code <a href="https://bitbucket.org/rteyssie/ramses/src/master/"> RAMSES </a>, we focused on the relation between the two modes (hot and cold) of gas accretion and star formation activity in early galaxies. We showed that cold accreted gas forms a turbulent disk around the galactic centre, where it can remain for hundreds of millions of years before eventually flowing inward and forming stars in the central regions of the galaxy.
+Under the supervision of <a href="https://www.pontzen.co.uk/"> Dr Andrew Pontzen </a>, <a href="https://cphyc.github.io/"> Dr Corentin Cadiou </a> and <a href="https://www.astro.lu.se/~oscar"> Dr Oscar Agertz </a>, I worked on the thermal history and kinematics of the gas accreted onto galaxies. Using the AMR code <a href="https://bitbucket.org/rteyssie/ramses/src/master/"> RAMSES </a>, we focused on the relation between the two modes (hot and cold) of gas accretion and star formation activity in early galaxies. We showed that cold accreted gas forms a turbulent disk around the galactic centre, where it can remain for hundreds of millions of years before eventually flowing inward and forming stars in the central regions of the galaxy.
 
 <div class="figure">
 
