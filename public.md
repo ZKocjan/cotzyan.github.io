@@ -3,9 +3,7 @@ layout: default
 title: Public Engagement
 ---
 
-## Public Engagement
-
-## Talks
+### Public Engagement
 
 ## Interviews
 
