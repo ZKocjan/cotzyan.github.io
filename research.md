@@ -13,7 +13,7 @@ title: Research
 
 ## Sub-grid modeling of the interstellar medium: the TURTLE model
 
-My doctoral research focuses on developing TURTLE (TURbulent Three-phase Low-resolution Equilibrium), a physically motivated sub-grid model of the interstellar medium for large-volume cosmological simulations. The project is carried out under the supervision of <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer </a> and in collaboration with <a href="https://vadimsemenov.com"> Dr Vadim Semenov </a> and <a href="https://sbialy.wixsite.com/astro"> Dr Shmuel Bialy </a>.
+My doctoral research focuses on developing TURTLE (TURbulent Three-phase Low-resolution Equilibrium), a physically motivated sub-grid model of the interstellar medium for large-volume cosmological simulations. The project is carried out under the supervision of <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer </a> and in collaboration with <a href="https://vadimsemenov.com"> Dr Vadim Semenov </a> and <a href="https://sbialy.wixsite.com/astro"> Dr Shmuel Bialy</a>.
 
 The main goal of TURTLE is to improve the physical realism of low resolution cosmological simulations as tools for testing fundamental physics and providing the essential link between theoretical models of galaxy formation and the statistical observables probed by modern surveys. The model incorporates key physical processes that occur on scales far below the resolution of cosmological simulations, including turbulence, molecular cloud formation, and stellar feedback. By capturing the impact of these unresolved processes, TURTLE enables large-volume simulations to produce more realistic predictions for star formation and the formation and evolution of galaxies across cosmic time.
 
@@ -35,7 +35,7 @@ Temperature projections of gas inside our turbulent-background SNe simulations, 
 
 ## Gas evolution and star formation
 
-This project, carried out under the supervision of <a href="https://vadimsemenov.com"> Dr Vadim Semenov </a>, investigates how the gas within galaxies evolves to form new stars. By combining computer simulations with theoretical models, it explores how dense, star-forming clouds are created, how long they survive, and how efficiently they convert gas into stars.
+This project, carried out under the supervision of <a href="https://vadimsemenov.com"> Dr Vadim Semenon</a>, investigates how the gas within galaxies evolves to form new stars. By combining computer simulations with theoretical models, it explores how dense, star-forming clouds are created, how long they survive, and how efficiently they convert gas into stars.
 
 Using simulations of isolated disk galaxies, we extended an existing theoretical framework of Semenov et al. 2017 that describes how gas cycles between star-forming and non-star-forming states. We showed that turbulent motions within the gas can rapidly compress it into star-forming clouds, typically within a few to a few tens of millions of years. However, these clouds are short-lived, and only a small fraction of their gas is converted into stars before they are dispersed by processes such as stellar feedback.
 
@@ -53,7 +53,7 @@ Overview of the gas cycling model (Semenov et al., 2017). Gas within galaxies co
 
 ## Gas accretion and the circumgalactic medium (CGM)
 
-Under the supervision of <a href="https://www.pontzen.co.uk/"> Dr Andrew Pontzen </a>, <a href="https://cphyc.github.io/"> Dr Corentin Cadiou </a> and <a href="https://www.astro.lu.se/~oscar"> Dr Oscar Agertz </a>, I worked on the thermal history and kinematics of the gas accreted onto galaxies. Using the AMR code <a href="https://bitbucket.org/rteyssie/ramses/src/master/"> RAMSES </a>, we focused on the relation between the two modes (hot and cold) of gas accretion and star formation activity in early galaxies. We showed that cold accreted gas forms a turbulent disk around the galactic centre, where it can remain for hundreds of millions of years before eventually flowing inward and forming stars in the central regions of the galaxy.
+Under the supervision of <a href="https://www.pontzen.co.uk/"> Dr Andrew Pontzen</a>, <a href="https://cphyc.github.io/"> Dr Corentin Cadiou </a> and <a href="https://www.astro.lu.se/~oscar"> Dr Oscar Agertz</a>, I worked on the thermal history and kinematics of the gas accreted onto galaxies. Using the AMR code <a href="https://bitbucket.org/rteyssie/ramses/src/master/"> RAMSES</a>, we focused on the relation between the two modes (hot and cold) of gas accretion and star formation activity in early galaxies. We showed that cold accreted gas forms a turbulent disk around the galactic centre, where it can remain for hundreds of millions of years before eventually flowing inward and forming stars in the central regions of the galaxy.
 
 <div class="figure">
 
