@@ -4,6 +4,6 @@ I am an Astronomy PhD Candidate and Fulbright Fellow in the Department of Astron
 
 My research focuses on the physical processes that shape star formation and galaxy evolution across cosmic time. I use advanced hydrodynamical simulations to study the life cycle of gas within galaxies, from the collapse of dense clouds that give birth to stars to the powerful explosions of dying stars that shape future generations of star formation.
 
-<h3>You can reach me at zkocjan@umd.edu </h3>
+<h3> You can reach me at zkocjan@umd.edu </h3>
 
 Interested in applying for Fulbright? Let me know! I am happy to help with applications and provide advice about the program :)
