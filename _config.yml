@@ -1,8 +1,12 @@
 theme: jekyll-theme-minimal
 title: Zuzanna Kocjan 
+description: Astronomy PhD candidate at University of Maryland.
 
 logo: https://zkocjan.github.io/cotzyan.github.io/profile.jpg
 twitter_username: cotzyan
+
+url: "https://zkocjan.github.io"
+baseurl: "/cotzyan.github.io"
 
 github:
   is_project_page: false
@@ -10,4 +14,5 @@ github:
 google_analytics:
 
 plugins:
+  - jekyll-seo-tag
   - jekyll-sitemap
