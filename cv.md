@@ -38,7 +38,7 @@ title: CV
 
 ## Selected Honors and Awards
 
-* <a href="https://www.simonsfoundation.org/flatiron-institute-center-for-computational-astrophysics-pre-doctoral-program/"> CCA Pre-Doctoral Program Fellow</a>, Flatiron Institute Center for Computational Astrophysics (2022)
+* <a href="https://www.simonsfoundation.org/flatiron-institute-center-for-computational-astrophysics-pre-doctoral-program/"> CCA Pre-Doctoral Program Fellow</a>, Flatiron Institute Center for Computational Astrophysics (2026)
 
 * <a href="https://fulbright.edu.pl"> Fulbright Poland Scholarship</a>: Graduate Student Award - $47,000 for the 2023/24 academic year (received renewal for 2024/2025).
 
