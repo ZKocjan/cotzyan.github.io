@@ -35,7 +35,7 @@ Temperature projections of gas inside our turbulent-background SNe simulations, 
 
 ## Gas evolution and star formation
 
-This project, carried out under the supervision of <a href="https://vadimsemenov.com"> Dr Vadim Semenov</a>, investigates how the gas within galaxies evolves to form new stars. By combining computer simulations with theoretical models, it explores how dense, star-forming clouds are created, how long they survive, and how efficiently they convert gas into stars.
+This project, carried out under the supervision of <a href="https://vadimsemenov.com"> Dr Vadim Semenov</a>, investigates how the gas within galaxies evolves to form new stars, i.e. how dense, star-forming clouds are created, how long they survive, and how efficiently they convert gas into stars.
 
 Using simulations of isolated disk galaxies, we extended the existing theoretical framework of Semenov et al. 2017 that describes how gas cycles between star-forming and non-star-forming states. We showed that turbulent motions within the gas can rapidly compress it into star-forming clouds, typically within a few to a few tens of millions of years. However, these clouds are short-lived, and only a small fraction of their gas is converted into stars before they are dispersed by processes such as stellar feedback.
 
