@@ -17,6 +17,12 @@ Under the supervision of Prof <a href="https://www.benediktdiemer.com"> Benedikt
 
 ## Gas cycling.
 
-![Gas-cycling illustration]({{ '/assets/illustr.pdf' | relative_url }})
+<div class="figure">
 
-*Overview of the gas cycling model.*
+<img src="{{ '/assets/illustr.pdf' | relative_url }}" alt="Gas cycling.">
+
+<p class="caption">
+Overview of the gas cycling model.
+</p>
+
+</div>
