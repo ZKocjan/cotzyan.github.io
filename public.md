@@ -9,7 +9,7 @@ title: Public Engagement
 
 ## Interviews
 
-* Podcast appearance on <a href=" https://www.rmfclassic.pl/podcasty/ameryka-i-ja-lidia-krawczuk,58,79743.html" Ameryka i Ja </a> - Lidia Krawczuk w RMF Classic.
+* Podcast appearance on <a href="https://www.rmfclassic.pl/podcasty/ameryka-i-ja-lidia-krawczuk,58,79743.html" Ameryka i Ja </a> - Lidia Krawczuk w RMF Classic.
 
 ## Panels
 
