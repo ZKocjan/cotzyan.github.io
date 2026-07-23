@@ -3,14 +3,6 @@ layout: default
 title: Research
 ---
 
-## Current interests
-
-- Galaxy evolution
-- Star formation
-- The multiphase interstellar medium
-- Hydrodynamical simulations
-- Connecting simulations with observations
-
 ## Sub-grid modeling of the interstellar medium: the TURTLE model
 
 My doctoral research focuses on developing TURTLE (TURbulent Three-phase Low-resolution Equilibrium), a physically motivated sub-grid model of the interstellar medium for large-volume cosmological simulations. The project is carried out under the supervision of <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer </a> and in collaboration with <a href="https://vadimsemenov.com"> Dr Vadim Semenov </a> and <a href="https://sbialy.wixsite.com/astro"> Dr Shmuel Bialy</a>.
