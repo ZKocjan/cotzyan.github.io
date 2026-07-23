@@ -8,11 +8,11 @@ Click here to download my CV.
 ## Education 
 
 - **Astronomy PhD**, University of Maryland (UMD): 2023 -- present
-  - * Dissertation ``TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by Dr Benedikt Diemer.
+  - Dissertation ``TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by Dr Benedikt Diemer.
 
 Astrophysics MSc, University College London (UCL): 2021 -- 2022
-* Distinction received.
-* Dissertation ``Thermal history and kinematics of the gas accreted onto galaxies'', supervised by Dr Andrew Pontzen & Dr Corentin Cadiou.
+  * Distinction received.
+  * Dissertation ``Thermal history and kinematics of the gas accreted onto galaxies'', supervised by Dr Andrew Pontzen & Dr Corentin Cadiou.
 
 Astrophysics BSc, Queen Mary University of London (QMUL): 2018 -- 2021
 * 1st class honours received.
