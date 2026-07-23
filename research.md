@@ -60,7 +60,7 @@ Under the supervision of Dr <a href="https://www.pontzen.co.uk/"> Andrew Pontzen
 <img src="{{ '/assets/css/fig_illustr_together_ras.pdf' | relative_url }}" alt="Accretion.">
 
 <p class="caption">
-Trajectories of accreted gas up to 400 Myr before star formation in the RAMSES simulations. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on star formation timescales. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430"> Kocjan et al. 2024 <a>.
+Trajectories of accreted gas up to 400 Myr before star formation in the RAMSES simulations. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on star formation timescales. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430"> Kocjan et al. 2024 </a>.
 </p>
 
 </div>
