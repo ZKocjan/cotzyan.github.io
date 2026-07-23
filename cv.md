@@ -3,41 +3,37 @@ layout: default
 title: CV
 ---
 
-Click here to download my CV.
-
 ## Education 
 
 - **Astronomy PhD**, University of Maryland (UMD): 2023 -- present
-  - Dissertation ``TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by Dr Benedikt Diemer.
+  - Dissertation ''TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer </a>.
 
-Astrophysics MSc, University College London (UCL): 2021 -- 2022
-  * Distinction received.
-  * Dissertation ``Thermal history and kinematics of the gas accreted onto galaxies'', supervised by Dr Andrew Pontzen & Dr Corentin Cadiou.
+- **Astrophysics MSc**, University College London (UCL): 2021 -- 2022
+  - Distinction received.
+  - Dissertation ''Thermal history and kinematics of the gas accreted onto galaxies'', supervised by <a href="https://www.pontzen.co.uk/"> Dr Andrew Pontzen </a> and <a href="https://cphyc.github.io/"> Dr Corentin Cadiou </a>.
 
-Astrophysics BSc, Queen Mary University of London (QMUL): 2018 -- 2021
-* 1st class honours received.
-* Dissertation ``Late Universe Expansion: an Introduction into fundamental equations in Cosmology'', supervised by Dr Karim Malik.
-
+- **Astrophysics BSc**, Queen Mary University of London (QMUL): 2018 -- 2021
+  - 1st class honours received.
+  - Dissertation ''Late Universe Expansion: an Introduction into fundamental equations in Cosmology'', supervised by <a href="https://scholar.google.com/citations?user=5Q69kZ4AAAAJ&hl=en"> Dr Karim Malik</a>.
 
 ## Positions
 
 Pre-Doctoral Program Research Analyst — Center for Computational Astrophysics, Flatiron Institute: Fall 2026
-* ``Illuminating the Bubbles: Connecting the physics of HII regions with observables'', supervised by Dr Mike Grudic and Dr Lachlan Lancaster.
+* ''Connecting the physics of HII regions with observables'', supervised by <a href="https://mikegrudic.github.io"> Dr Mike Grudic </a> and <a href="https://lachlanlancaster.com/research"> Dr Lachlan Lancaster </a>.
 
 Graduate Researcher — University of Maryland, College Park: 2023 -- present 
-* ``TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by Dr Benedikt Diemer.
-* ``Tracing the Timescales of Gas Evolution and Star Formation in Galactic Environments'', supervised by Dr Vadim Semenov.
-* ``The MULTIVERSE project: Towards realistic halo-scale constraints on the nature of dark matter and gravity'', supervised by Dr Benedikt Diemer.
+* ''TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer</a>.
+* ''Tracing the Timescales of Gas Evolution and Star Formation in Galactic Environments'', supervised by <a href="https://vadimsemenov.com"> Dr Vadim Semenov </a>.
+* ''The MULTIVERSE project: Towards realistic halo-scale constraints on the nature of dark matter and gravity'', supervised by <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer</a>.
 
 Research Assistant at Lund University, Sweden: 2022 –- 2023
-* ``Hot gas accretion fuels star formation faster than cold accretion in high redshift galaxies'', supervised by Dr Oscar Agertz and Dr Corentin Cadiou.
+* ''Hot gas accretion fuels star formation faster than cold accretion in high redshift galaxies'', supervised by Dr Oscar Agertz and <a href="https://cphyc.github.io/"> Dr Corentin Cadiou </a>.
 
 Summer 2021 Research Internship at QMUL 
-* ``Studying potential hosts of gravitational waves events'', supervised by Dr Tessa Baker.
+* ''Studying potential hosts of gravitational waves events'', supervised by <a href="https://www.tessabaker.space/"> Dr Tessa Baker </a>. 
 
 Summer 2020 Research Internship at QMUL 
-* ``Mapping the 3D UV radiation field of the Milky Way with GAIA'', supervised by Dr Thomas Haworth.
-
+* ''Mapping the 3D UV radiation field of the Milky Way with GAIA'', supervised by <a href="https://thaworth.wixsite.com/astro"> Dr Thomas Haworth </a>.
 
 
 ## Selected Honors and Awards
@@ -56,7 +52,7 @@ Summer 2020 Research Internship at QMUL
 
 * 18th Potsdam Thinkshop on Galaxy Feedback (poster), Leibniz Institute for Astrophysics, Germany. 14 - 18.07.2025.
 
-* Multiphase Madness - Resolving the CGM in Theory and Observations, Harvard & Smithsonian, USA. 21 - 23.08.2024. 
+* Multiphase Madness - Resolving the CGM in Theory and Observations, Harvard & Smithsonian, USA. 21 - 23.08.2024. <a href="https://www.youtube.com/watch?v=xH76pFGgB8w"> [yt recording] </a>
 
 * RAMSES User Meeting 2024, Center for Computational Astrophysics, New York City, USA. 23 - 27.04.2024.
 
