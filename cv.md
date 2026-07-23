@@ -50,7 +50,7 @@ title: CV
 
 ## Conference talks 
 
-* RAMSES User Meeting 2025, Yonsei University, Seoul, South Korea. 27.04 - 1.05.2026.
+* RAMSES User Meeting 2025, Yonsei University, Seoul, South Korea. 27.04 - 01.05.2026.
 
 * 18th Potsdam Thinkshop on Galaxy Feedback (poster), Leibniz Institute for Astrophysics, Germany. 14 - 18.07.2025.
 
@@ -58,7 +58,7 @@ title: CV
 
 * RAMSES User Meeting 2024, Center for Computational Astrophysics, New York City, USA. 23 - 27.04.2024.
 
-* 243rd Meeting of the American Astronomical Society (poster), New Orleans, USA. 7 - 11.01.2024.
+* 243rd Meeting of the American Astronomical Society (poster), New Orleans, USA. 07 - 11.01.2024.
 
 * RAMSES User Meeting 2023, University of Oxford, UK. 18 - 21.04.2023.
 
