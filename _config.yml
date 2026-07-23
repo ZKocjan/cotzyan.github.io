@@ -1,17 +1,14 @@
-theme: jekyll-theme-minimal
-title: Zuzanna Kocjan 
-description: Astronomy PhD Candidate at University of Maryland. Pronouns: she/her.
+theme: jekyll-theme-minimal 
+title: Zuzanna Kocjan  
 
-logo: https://zkocjan.github.io/cotzyan.github.io/profile.jpg
-twitter_username: cotzyan
+logo: https://zkocjan.github.io/cotzyan.github.io/profile.jpg 
 
-url: "https://zkocjan.github.io"
-baseurl: "/cotzyan.github.io"
+twitter_username: cotzyan 
 
-github:
-  is_project_page: false
+github: 
+  is_project_page: false 
+  
+google_analytics: 
 
-google_analytics:
-
-plugins:
+plugins: 
   - jekyll-sitemap
