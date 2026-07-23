@@ -13,11 +13,11 @@ title: Research
 
 ## Sub-grid modeling of the interstellar medium: the TURTLE model
 
-My doctoral research focuses on developing TURTLE, a physically motivated sub-grid model of the interstellar medium for large-volume cosmological simulations. The project is carried out under the supervision of Dr <a href="https://www.benediktdiemer.com"> Benedikt Diemer </a> and in collaboration with Dr <a href="https://vadimsemenov.com"> Vadim Semenov </a> and Dr <a href="https://sbialy.wixsite.com/astro"> Shmuel Bialy </a>.
+My doctoral research focuses on developing TURTLE (TURbulent Three-phase Low-resolution Equilibrium), a physically motivated sub-grid model of the interstellar medium for large-volume cosmological simulations. The project is carried out under the supervision of <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer </a> and in collaboration with <a href="https://vadimsemenov.com"> Dr Vadim Semenov </a> and <a href="https://sbialy.wixsite.com/astro"> Dr Shmuel Bialy </a>.
 
-The main goal of \turtle is to improve the physical realism of low resolution cosmological simulations as tools for testing fundamental physics and providing the essential link between theoretical models of galaxy formation and the statistical observables probed by modern surveys. The model incorporates key physical processes that occur on scales far below the resolution of cosmological simulations, including turbulence, molecular cloud formation, and stellar feedback. By capturing the impact of these unresolved processes, TURTLE enables large-volume simulations to produce more realistic predictions for star formation and the formation and evolution of galaxies across cosmic time.
+The main goal of TURTLE is to improve the physical realism of low resolution cosmological simulations as tools for testing fundamental physics and providing the essential link between theoretical models of galaxy formation and the statistical observables probed by modern surveys. The model incorporates key physical processes that occur on scales far below the resolution of cosmological simulations, including turbulence, molecular cloud formation, and stellar feedback. By capturing the impact of these unresolved processes, TURTLE enables large-volume simulations to produce more realistic predictions for star formation and the formation and evolution of galaxies across cosmic time.
 
-## The effect of stellar feedback on ISM gas. 
+## The effect of stellar feedback on ISM gas 
 
 To understand how stars shape their surrounding environment, I perform computer simulations of Type II supernovae -- the powerful explosions that mark the end of the lives of massive stars. These explosions inject large amounts of energy into the surrounding gas, heating it, stirring it into turbulent motion, and changing its physical state.
 
@@ -28,14 +28,14 @@ Using the adaptive mesh refinement simulation code ART (Kravtsov et al. 1997; Ru
 <img src="{{ '/assets/css/SN.png' | relative_url }}" alt="SNe explosion.">
 
 <p class="caption">
-Temperature projections of gas inside our turbulent-background SNe simulations, with box length of 200 pc.
+Temperature projections of gas inside our turbulent-background SNe simulations, with box length of 200 pc. Each column represents a later stage in the simulation, illustrating the expansion of the shock wave over time.
 </p>
 
 </div>
 
-## Gas evolution and star formation.
+## Gas evolution and star formation
 
-This project, carried out under the supervision of Dr <a href="https://vadimsemenov.com"> Vadim Semenov </a>, investigates how the gas within galaxies evolves to form new stars. By combining computer simulations with theoretical models, it explores how dense, star-forming clouds are created, how long they survive, and how efficiently they convert gas into stars.
+This project, carried out under the supervision of <a href="https://vadimsemenov.com"> Dr Vadim Semenov </a>, investigates how the gas within galaxies evolves to form new stars. By combining computer simulations with theoretical models, it explores how dense, star-forming clouds are created, how long they survive, and how efficiently they convert gas into stars.
 
 Using simulations of isolated disk galaxies, we extended an existing theoretical framework of Semenov et al. 2017 that describes how gas cycles between star-forming and non-star-forming states. We showed that turbulent motions within the gas can rapidly compress it into star-forming clouds, typically within a few to a few tens of millions of years. However, these clouds are short-lived, and only a small fraction of their gas is converted into stars before they are dispersed by processes such as stellar feedback.
 
@@ -60,11 +60,11 @@ Under the supervision of Dr <a href="https://www.pontzen.co.uk/"> Andrew Pontzen
 <img src="{{ '/assets/css/fig_illustr_together_ras.pdf' | relative_url }}" alt="Accretion.">
 
 <p class="caption">
-Trajectories of accreted gas up to 400 Myr before star formation in the RAMSES simulations. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on star formation timescales. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430"> Kocjan et al. 2024 </a>.
+Trajectories of accreted gas up to 400 million of years before star formation. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on how quickly they form stars. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430"> Kocjan et al. 2024 </a>.
 </p>
 
 </div>
 
-## Exploring dark matter through the MULTIVERSE collaboration. 
+## Exploring dark matter through the MULTIVERSE collaboration
 
-As part of the MULTIVERSE collaboration (PI: Dr <a href="https://www.benediktdiemer.com"> Benedikt Diemer </a>), I contribute to building a uniform simulation framework that enables systematic comparisons across various dark matter (e.g., cold, warm, self-interacting) and modified gravity models within a consistent numerical setup. The primary goal is to identify observable signatures, such as halo density profiles, subhalo structure, and satellite galaxy distributions, that can distinguish between dark matter models and provide robust predictions to guide and interpret next-generation survey data.
+As part of the MULTIVERSE collaboration (PI: <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer </a>), I contribute to building a uniform simulation framework that enables systematic comparisons across various dark matter (e.g., cold, warm, self-interacting) and modified gravity models within a consistent numerical setup. The primary goal is to identify observable signatures, such as halo density profiles, subhalo structure, and satellite galaxy distributions, that can distinguish between dark matter models and provide robust predictions to guide and interpret next-generation survey data.
