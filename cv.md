@@ -19,7 +19,7 @@ title: CV
 ## Positions
 
 - Pre-Doctoral Program Research Analyst — Center for Computational Astrophysics, Flatiron Institute: Fall 2026
-  - ''Connecting the physics of HII regions with observables'', supervised by <a href="https://mikegrudic.github.io"> Dr Mike Grudic </a> and <a href="https://lachlanlancaster.com/research"> Dr Lachlan Lancaster</a>.
+  - ''Connecting the physics of HII regions with observables'', supervised by <a href="https://mikegrudic.github.io"> Dr Mike Grudić </a> and <a href="https://lachlanlancaster.com/research"> Dr Lachlan Lancaster</a>.
 
 - Graduate Researcher — University of Maryland, College Park: 2023 - present 
   - ''TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer</a>.
