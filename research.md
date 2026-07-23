@@ -26,3 +26,18 @@ Overview of the gas cycling model.
 </p>
 
 </div>
+
+## Gas accretion 
+
+<div class="figure">
+
+<img src="{{ '/assets/css/fig_illustr_together_ras.pdf' | relative_url }}" alt="Gas cycling.">
+
+<p class="caption">
+Overview of the gas cycling model.
+</p>
+
+</div>
+
+## MULTIVERSE project
+
