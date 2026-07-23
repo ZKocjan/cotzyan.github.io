@@ -9,8 +9,8 @@ My research focuses on the physical processes that shape star formation and gala
 - Galaxy formation and evolution across cosmic time
 - The physics of multiphase interstellar medium
 - The processes that regulate star formation 
-- Hydrodynamical simulations, numerical methods, and sub-grid modelling
-- Connecting theoretical models and numerical simulations with observations
+- Numerical simulations and sub-grid modelling
+- Connecting theoretical models with observations
 - High-performance computing and computational astrophysics
 
 <h3> You can reach me at zkocjan@umd.edu </h3>
