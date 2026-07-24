@@ -38,7 +38,7 @@ These results help explain why galaxies form stars at the rates observed across 
 <img src="{{ '/assets/css/cycling.png' | relative_url }}" alt="Gas cycling.">
 
 <p class="caption">
-Overview of the gas cycling model (Semenov et al., 2017). Gas within galaxies continually cycles between diffuse gas and dense, star-forming clouds. The model describes how long gas spends in each phase and how quickly it is converted into stars. The balance between these processes determines how much of a galaxy's gas is actively forming stars and, ultimately, the galaxy's overall star formation rate. Figure from <a href="https://arxiv.org/abs/2602.02657"> Kocjan & Semenov 2026 </a>.
+Overview of the gas cycling model (Semenov et al., 2017). Gas within galaxies continually cycles between diffuse gas and dense, star-forming clouds. The model describes how long gas spends in each phase and how quickly it is converted into stars. The balance between these processes determines how much of a galaxy's gas is actively forming stars and, ultimately, the galaxy's overall star formation rate. Figure from <a href="https://arxiv.org/abs/2602.02657"> Kocjan & Semenov 2026</a>.
 </p>
 
 </div>
@@ -52,11 +52,11 @@ Under the supervision of <a href="https://www.pontzen.co.uk/"> Dr Andrew Pontzen
 <img src="{{ '/assets/css/accretion.png' | relative_url }}" alt="Accretion.">
 
 <p class="caption">
-Trajectories of accreted gas up to 400 million of years before star formation. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on how quickly they form stars. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430"> Kocjan et al. 2024 </a>.
+Trajectories of accreted gas up to 400 million of years before star formation. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on how quickly they form stars. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430"> Kocjan et al. 2024</a>.
 </p>
 
 </div>
 
 ## Exploring dark matter through the MULTIVERSE collaboration
 
-As part of the MULTIVERSE collaboration (PI: <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer </a>), I contribute to building a uniform simulation framework that enables systematic comparisons across various dark matter (e.g., cold, warm, self-interacting) and modified gravity models within a consistent numerical setup. The primary goal is to identify observable signatures, such as halo density profiles, subhalo structure, and satellite galaxy distributions, that can distinguish between dark matter models and provide robust predictions to guide and interpret next-generation survey data.
+As part of the MULTIVERSE collaboration (PI: <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer</a>), I contribute to building a uniform simulation framework that enables systematic comparisons across various dark matter (e.g., cold, warm, self-interacting) and modified gravity models within a consistent numerical setup. The primary goal is to identify observable signatures, such as halo density profiles, subhalo structure, and satellite galaxy distributions, that can distinguish between dark matter models and provide robust predictions to guide and interpret next-generation survey data.
