@@ -30,10 +30,10 @@ title: CV
   - ''Hot gas accretion fuels star formation faster than cold accretion in high redshift galaxies'', supervised by Dr Oscar Agertz and <a href="https://cphyc.github.io/"> Dr Corentin Cadiou</a>.
 
 - Summer 2021 Research Internship at QMUL 
-  - ''Studying potential hosts of gravitational waves events'', supervised by <a href="https://www.tessabaker.space/"> Dr Tessa Baker </a>. 
+  - ''Studying potential hosts of gravitational waves events'', supervised by <a href="https://www.tessabaker.space/"> Dr Tessa Baker</a>. 
 
 - Summer 2020 Research Internship at QMUL 
-  - ''Mapping the 3D UV radiation field of the Milky Way with GAIA'', supervised by <a href="https://thaworth.wixsite.com/astro"> Dr Thomas Haworth </a>.
+  - ''Mapping the 3D UV radiation field of the Milky Way with GAIA'', supervised by <a href="https://thaworth.wixsite.com/astro"> Dr Thomas Haworth</a>.
 
 
 ## Selected Honors and Awards
