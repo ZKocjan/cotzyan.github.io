@@ -9,8 +9,9 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
   color: #ffffff;
   font-weight: 400;
 }
@@ -43,8 +44,8 @@ a {
 }
 
 a:hover, a:focus {
-  color:#7a18f5;
-  font-weight: bold;
+  color:#4f53f0;
+  font-weight: normal;
 }
 
 logo {
@@ -107,7 +108,7 @@ div.gallery img {
 }
 
 .navbar a:hover {
-  color: #7a18f5;
+  color: #4f53f0;
 }
 
 .figure {
