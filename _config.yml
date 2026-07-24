@@ -8,8 +8,9 @@ logo: https://zkocjan.github.io/cotzyan.github.io/profile.jpg
 twitter_username: cotzyan 
 
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
+
 
 github: 
   is_project_page: false 
