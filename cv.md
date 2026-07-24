@@ -6,7 +6,7 @@ title: CV
 ## Education 
 
 - **Astronomy PhD**, University of Maryland (UMD): 2023 - present
-  - Dissertation ''TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer</a>.
+  - Dissertation ''TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by <a href="https://www.benediktdiemer.com" target="_blank" rel="noopener noreferrer"> Dr Benedikt Diemer</a>.
 
 - **Astrophysics MSc**, University College London (UCL): 2021 - 2022
   - Distinction received.
