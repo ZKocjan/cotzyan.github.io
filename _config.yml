@@ -9,6 +9,7 @@ twitter_username: cotzyan
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 github: 
   is_project_page: false 
