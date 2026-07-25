@@ -7,9 +7,9 @@ title: Public Engagement
 
 #### Interviews
 
-* Podcast appearance on <a href="https://www.rmfclassic.pl/podcasty/ameryka-i-ja-lidia-krawczuk,58,79743.html"> Ameryka i Ja </a> - Lidia Krawczuk w RMF Classic. <a href="https://open.spotify.com/episode/76JE5iK57nUPdYlsWZHDdo"> [spotify] </a>
+* Podcast appearance on <a href="https://www.rmfclassic.pl/podcasty/ameryka-i-ja-lidia-krawczuk,58,79743.html" target="_blank" rel="noopener noreferrer"> Ameryka i Ja </a> - Lidia Krawczuk w RMF Classic. <a href="https://open.spotify.com/episode/76JE5iK57nUPdYlsWZHDdo" target="_blank" rel="noopener noreferrer"> [spotify] </a>
   
-* Interview for <a href="https://tvn24.pl/biznes/ze-swiata/usa-departament-stanu-usa-tymczasowo-wstrzymal-wydatki-na-programy-edukacyjne-miedzy-innymi-fulbright-st8380836"> TVN24 </a> - April 2025.  
+* Interview for <a href="https://tvn24.pl/biznes/ze-swiata/usa-departament-stanu-usa-tymczasowo-wstrzymal-wydatki-na-programy-edukacyjne-miedzy-innymi-fulbright-st8380836" target="_blank" rel="noopener noreferrer"> TVN24 </a> - April 2025.  
 
 #### Panels
 
