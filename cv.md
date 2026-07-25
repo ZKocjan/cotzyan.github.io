@@ -46,7 +46,7 @@ title: CV
   
 * Graduate School Dean's Fellowship 2023 - equivalent to $7,500 for exceptional candidates admitted to the PhD program. 
 
-
+* Women in Science Scholarship from the Faculty of Natural & Mathematical Sciences at King's College London (2018/19) - equivalent to £3,000 (awarded, declined by candidate).
 
 ## Conference talks 
 
