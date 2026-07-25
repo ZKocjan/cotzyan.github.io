@@ -54,7 +54,7 @@ title: CV
 
 * 18th Potsdam Thinkshop on Galaxy Feedback (poster), Leibniz Institute for Astrophysics, Germany. 14 - 18.07.2025.
 
-* Multiphase Madness - Resolving the CGM in Theory and Observations, Harvard & Smithsonian, USA. 21 - 23.08.2024. <a href="https://www.youtube.com/watch?v=xH76pFGgB8w" target="_blank" rel="noopener noreferrer"> [yt recording] </a>
+* Multiphase Madness - Resolving the CGM in Theory and Observations, Harvard & Smithsonian, USA. 21 - 23.08.2024. <a href="https://www.youtube.com/watch?v=xH76pFGgB8w" target="_blank" rel="noopener noreferrer"> [yt recording]</a>
 
 * RAMSES User Meeting 2024, Center for Computational Astrophysics, New York City, USA. 23 - 27.04.2024.
 
