@@ -5,7 +5,7 @@ title: Research
 
 ## Sub-grid modeling of the interstellar medium: the TURTLE model
 
-My doctoral research focuses on developing TURTLE (TURbulent Three-phase Low-resolution Equilibrium), a physically motivated sub-grid model of the interstellar medium for large-volume cosmological simulations. The project is carried out under the supervision of <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer </a> and in collaboration with <a href="https://vadimsemenov.com"> Dr Vadim Semenov </a> and <a href="https://sbialy.wixsite.com/astro"> Dr Shmuel Bialy</a>.
+My doctoral research focuses on developing TURTLE (TURbulent Three-phase Low-resolution Equilibrium), a physically motivated sub-grid model of the interstellar medium for large-volume cosmological simulations. The project is carried out under the supervision of <a href="https://www.benediktdiemer.com" target="_blank" rel="noopener noreferrer"> Dr Benedikt Diemer </a> and in collaboration with <a href="https://vadimsemenov.com" target="_blank" rel="noopener noreferrer"> Dr Vadim Semenov </a> and <a href="https://sbialy.wixsite.com/astro" target="_blank" rel="noopener noreferrer"> Dr Shmuel Bialy</a>.
 
 The main goal of TURTLE is to improve the physical realism of low resolution cosmological simulations as tools for testing fundamental physics and providing the essential link between theoretical models of galaxy formation and the statistical observables probed by modern surveys. The model incorporates key physical processes that occur on scales far below the resolution of cosmological simulations, including turbulence, molecular cloud formation, and stellar feedback. By capturing the impact of these unresolved processes, TURTLE enables large-volume simulations to produce more realistic predictions for star formation and the formation and evolution of galaxies across cosmic time.
 
@@ -27,7 +27,7 @@ Temperature projections of gas inside our turbulent-background SNe simulations, 
 
 ## Gas evolution and star formation
 
-This project, carried out under the supervision of <a href="https://vadimsemenov.com"> Dr Vadim Semenov</a>, investigates how the gas within galaxies evolves to form new stars, i.e. how dense, star-forming clouds are created, how long they survive, and how efficiently they convert gas into stars.
+This project, carried out under the supervision of <a href="https://vadimsemenov.com" target="_blank" rel="noopener noreferrer"> Dr Vadim Semenov</a>, investigates how the gas within galaxies evolves to form new stars, i.e. how dense, star-forming clouds are created, how long they survive, and how efficiently they convert gas into stars.
 
 Using simulations of isolated disk galaxies, we extended the existing theoretical framework of Semenov et al. 2017 that describes how gas cycles between star-forming and non-star-forming states. We showed that turbulent motions within the gas can rapidly compress it into star-forming clouds, typically within a few to a few tens of millions of years. However, these clouds are short-lived, and only a small fraction of their gas is converted into stars before they are dispersed by processes such as stellar feedback.
 
@@ -38,25 +38,25 @@ These results help explain why galaxies form stars at the rates observed across 
 <img src="{{ '/assets/css/cycling.png' | relative_url }}" alt="Gas cycling.">
 
 <p class="caption">
-Overview of the gas cycling model (Semenov et al., 2017). Gas within galaxies continually cycles between diffuse gas and dense, star-forming clouds. The model describes how long gas spends in each phase and how quickly it is converted into stars. The balance between these processes determines how much of a galaxy's gas is actively forming stars and, ultimately, the galaxy's overall star formation rate. Figure from <a href="https://arxiv.org/abs/2602.02657"> Kocjan & Semenov 2026</a>.
+Overview of the gas cycling model (Semenov et al., 2017). Gas within galaxies continually cycles between diffuse gas and dense, star-forming clouds. The model describes how long gas spends in each phase and how quickly it is converted into stars. The balance between these processes determines how much of a galaxy's gas is actively forming stars and, ultimately, the galaxy's overall star formation rate. Figure from <a href="https://arxiv.org/abs/2602.02657" target="_blank" rel="noopener noreferrer"> Kocjan & Semenov 2026</a>.
 </p>
 
 </div>
 
 ## Gas accretion and the circumgalactic medium (CGM)
 
-Under the supervision of <a href="https://www.pontzen.co.uk/"> Dr Andrew Pontzen</a>, <a href="https://cphyc.github.io/"> Dr Corentin Cadiou </a> and <a href="https://www.astro.lu.se/~oscar"> Dr Oscar Agertz</a>, I worked on the thermal history and kinematics of the gas accreted onto galaxies. Using the AMR code <a href="https://bitbucket.org/rteyssie/ramses/src/master/"> RAMSES</a>, we focused on the relation between the two modes (hot and cold) of gas accretion and star formation activity in early galaxies. We showed that cold accreted gas forms a turbulent disk around the galactic centre, where it can remain for hundreds of millions of years before eventually flowing inward and forming stars in the central regions of the galaxy.
+Under the supervision of <a href="https://www.pontzen.co.uk/" target="_blank" rel="noopener noreferrer"> Dr Andrew Pontzen</a>, <a href="https://cphyc.github.io/" target="_blank" rel="noopener noreferrer"> Dr Corentin Cadiou </a> and <a href="https://www.astro.lu.se/~oscar" target="_blank" rel="noopener noreferrer"> Dr Oscar Agertz</a>, I worked on the thermal history and kinematics of the gas accreted onto galaxies. Using the AMR code <a href="https://bitbucket.org/rteyssie/ramses/src/master/" target="_blank" rel="noopener noreferrer"> RAMSES</a>, we focused on the relation between the two modes (hot and cold) of gas accretion and star formation activity in early galaxies. We showed that cold accreted gas forms a turbulent disk around the galactic centre, where it can remain for hundreds of millions of years before eventually flowing inward and forming stars in the central regions of the galaxy.
 
 <div class="figure">
 
 <img src="{{ '/assets/css/accretion.png' | relative_url }}" alt="Accretion.">
 
 <p class="caption">
-Trajectories of accreted gas up to 400 million of years before star formation. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on how quickly they form stars. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430"> Kocjan et al. 2024</a>.
+Trajectories of accreted gas up to 400 million of years before star formation. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on how quickly they form stars. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430" target="_blank" rel="noopener noreferrer"> Kocjan et al. 2024</a>.
 </p>
 
 </div>
 
 ## Exploring dark matter through the MULTIVERSE collaboration
 
-As part of the MULTIVERSE collaboration (PI: <a href="https://www.benediktdiemer.com"> Dr Benedikt Diemer</a>), I contribute to building a uniform simulation framework that enables systematic comparisons across various dark matter (e.g., cold, warm, self-interacting) and modified gravity models within a consistent numerical setup. The primary goal is to identify observable signatures, such as halo density profiles, subhalo structure, and satellite galaxy distributions, that can distinguish between dark matter models and provide robust predictions to guide and interpret next-generation survey data.
+As part of the MULTIVERSE collaboration (PI: <a href="https://www.benediktdiemer.com" target="_blank" rel="noopener noreferrer"> Dr Benedikt Diemer</a>), I contribute to building a uniform simulation framework that enables systematic comparisons across various dark matter (e.g., cold, warm, self-interacting) and modified gravity models within a consistent numerical setup. The primary goal is to identify observable signatures, such as halo density profiles, subhalo structure, and satellite galaxy distributions, that can distinguish between dark matter models and provide robust predictions to guide and interpret next-generation survey data.
