@@ -13,7 +13,7 @@ The main goal of TURTLE is to improve the physical realism of low resolution cos
 
 To understand how stars shape their surrounding environment, I perform computer simulations of Type II supernovae -- the powerful explosions that mark the end of the lives of massive stars. These explosions inject large amounts of energy into the surrounding gas, heating it, stirring it into turbulent motion, and changing its physical state.
 
-Using the adaptive mesh refinement simulation code ART (Kravtsov et al. 1997; Rudd et al. 2008), I model supernova explosions under a range of different interstellar conditions, varying properties such as the gas density, chemical composition, and the strength of the surrounding ultraviolet radiation. The results are used to develop prescriptions that describe how supernovae redistribute mass and energy throughout the interstellar medium, which are then incorporated into the TURTLE model, enabling large-scale cosmological simulations to more accurately capture the influence of stellar feedback on galaxy evolution.
+Using the adaptive mesh refinement simulation code ART (Kravtsov et al., 1997; Rudd et al., 2008), I model supernova explosions under a range of different interstellar conditions, varying properties such as the gas density, chemical composition, and the strength of the surrounding ultraviolet radiation. The results are used to develop prescriptions that describe how supernovae redistribute mass and energy throughout the interstellar medium, which are then incorporated into the TURTLE model, enabling large-scale cosmological simulations to more accurately capture the influence of stellar feedback on galaxy evolution.
 
 <div class="figure">
 
@@ -52,7 +52,7 @@ Under the supervision of <a href="https://www.pontzen.co.uk/" target="_blank" re
 <img src="{{ '/assets/css/accretion.png' | relative_url }}" alt="Accretion.">
 
 <p class="caption">
-Trajectories of accreted gas up to 400 million of years before star formation. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on how quickly they form stars. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430" target="_blank" rel="noopener noreferrer"> Kocjan et al. 2024</a>.
+Trajectories of accreted gas up to 400 million of years before star formation. Hot-mode gas is shown in red, while cold-mode gas (cyan/blue) is divided into fast and slow components based on how quickly they form stars. Most cold-accreted gas settles into a turbulent disk (central panel), delaying star formation. Figure from  <a href="https://academic.oup.com/mnras/article/534/1/918/7756430" target="_blank" rel="noopener noreferrer"> Kocjan et al., 2024</a>.
 </p>
 
 </div>
