@@ -6,7 +6,7 @@ title: CV
 ## Education 
 
 - **Astronomy PhD**, University of Maryland (UMD): 2023 - present
-  - Dissertation ''TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by <a href="https://www.benediktdiemer.com" target="_blank" rel="noopener noreferrer"> Dr Benedikt Diemer</a>.
+  - Dissertation ''A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by <a href="https://www.benediktdiemer.com" target="_blank" rel="noopener noreferrer"> Dr Benedikt Diemer</a>.
 
 - **Astrophysics MSc**, University College London (UCL): 2021 - 2022
   - Distinction received.
@@ -22,7 +22,7 @@ title: CV
   - ''Connecting the physics of HII regions with observables'', supervised by <a href="https://mikegrudic.github.io" target="_blank" rel="noopener noreferrer"> Dr Mike Grudić </a> and <a href="https://lachlanlancaster.com/research" target="_blank" rel="noopener noreferrer"> Dr Lachlan Lancaster</a>.
 
 - Graduate Researcher — University of Maryland, College Park: 2023 - present 
-  - ''TURTLE: A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by <a href="https://www.benediktdiemer.com" target="_blank" rel="noopener noreferrer"> Dr Benedikt Diemer</a>.
+  - ''A next-generation model for the interstellar medium and star formation in the largest cosmological simulations'', supervised by <a href="https://www.benediktdiemer.com" target="_blank" rel="noopener noreferrer"> Dr Benedikt Diemer</a>.
   - ''Tracing the Timescales of Gas Evolution and Star Formation in Galactic Environments'', supervised by <a href="https://vadimsemenov.com" target="_blank" rel="noopener noreferrer"> Dr Vadim Semenov</a>.
   - ''The MULTIVERSE project: Towards realistic halo-scale constraints on the nature of dark matter and gravity'', supervised by <a href="https://www.benediktdiemer.com" target="_blank" rel="noopener noreferrer"> Dr Benedikt Diemer</a>.
 
