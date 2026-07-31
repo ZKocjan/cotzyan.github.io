@@ -13,4 +13,4 @@ title: Public Engagement
 
 #### Panels
 
-* Panelist at Intl. Week of Women and Girls in Science (10.02.2025), John Hopkins University, Washington DC, USA. Event organized in collaboration with the Embassy of Poland, Finland, Norway, and the United Arab Emirates.
+* Invited Panelist, <a href="https://washingtondc.jhu.edu/news/experts-share-global-perspectives-on-science-diplomacy/"  target="_blank" rel="noopener noreferrer"> "Global Perspectives in Science Diplomacy"</a>, an International Day of Women and Girls in Science event hosted by Johns Hopkins University, Washington, DC, USA (10 February 2025). This event was organized in collaboration with the Embassies of Poland, Finland, Norway, and the United Arab Emirates.
